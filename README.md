@@ -1,2 +1,2 @@
 # viprosite.github.io
-vipro site.
+initial res.
